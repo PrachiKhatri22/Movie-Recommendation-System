@@ -39,6 +39,22 @@ The dataset used in this project is the Netflix dataset, which includes informat
 <b>Visualization of Directors:</b> Created a point plot to display the top 10 directors and their average IMDb scores.<br>
 <b>Movie Recommendations by Actor:</b> Developed a feature where users can enter an actor's name, and the system recommends the top 5 movies featuring that actor, along with IMDb scores.<br>
 
+<h2>Key Deliverables:</h2>
+Top 20 Movies Based on IMDb Score and Number of Reviews
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/76ce7e9a-7ddc-41f1-8a10-ce7b7de4b4ca" />
+
+Top 10 Foreign Movies based on IMDb Score
+<img width="832" alt="image" src="https://github.com/user-attachments/assets/3753561d-d67a-4b2c-a7fd-70133c257a23" />
+
+Top 10 Directors based on IMDb Score
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/58e8237b-0938-4c1f-9058-dc9aa0f71c35" />
+<img width="723" alt="image" src="https://github.com/user-attachments/assets/db4f51ee-e71a-469a-ac9a-469cbaa2cd86" />
+
+Recommending top 5 Movies Based on Actors
+<img width="249" alt="image" src="https://github.com/user-attachments/assets/9cd45339-1be2-4511-ab1d-e281083b3050" />
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/ed47d8de-13b8-40aa-a4bf-8d0803041e88" />
+
+
 <br>
 Also checkout my Jupyter Notebook:
 <a href="https://github.com/PrachiKhatri22/Movie-Recommendation-System/blob/main/Movie%20Recommendation%20System.ipynb">Notebook</a>
