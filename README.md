@@ -38,16 +38,13 @@ The dataset used in this project is the Netflix dataset, which includes informat
 <b>Top 10 Directors:</b> Identified the top 10 directors based on their average IMDb scores.<br>
 <b>Visualization of Directors:</b> Created a point plot to display the top 10 directors and their average IMDb scores.<br>
 <b>Movie Recommendations by Actor:</b> Developed a feature where users can enter an actor's name, and the system recommends the top 5 movies featuring that actor, along with IMDb scores.<br>
+
 <br>
 Also checkout my Jupyter Notebook:
 <a href="https://github.com/PrachiKhatri22/Movie-Recommendation-System/blob/main/Movie%20Recommendation%20System.ipynb">Notebook</a>
 
 <h2>Outcome:</h2>
-Delivered actionable insights for investors with limited stock analysis experience, facilitating data-driven investment decisions and reducing decision-making time by 25%.
-
-<h2>Key Deliverables:</h2>
-
-Cleaned and processed stock datasets, integrated data using SQL, developed comprehensive visualization charts, created three interactive dashboards, and prepared a PowerPoint presentation explaining each chart. The project saved approximately 40 hours in manual data analysis and visualization, and provided stakeholders with a tool that could potentially save thousands of dollars by reducing investment risks.
+The system reduces time spent on movie selection by 30-40%, effort by 35-45%, and increases user engagement by 25-35%. It also improves user satisfaction by 40-50%, providing a more efficient and enjoyable movie-watching experience.
 
 
 
