@@ -38,7 +38,7 @@ The dataset used in this project is the Netflix dataset, which includes informat
 <b>Top 10 Directors:</b> Identified the top 10 directors based on their average IMDb scores.<br>
 <b>Visualization of Directors:</b> Created a point plot to display the top 10 directors and their average IMDb scores.<br>
 <b>Movie Recommendations by Actor:</b> Developed a feature where users can enter an actor's name, and the system recommends the top 5 movies featuring that actor, along with IMDb scores.<br>
-
+<br>
 Also checkout my Jupyter Notebook:
 <a href="https://github.com/PrachiKhatri22/Movie-Recommendation-System/blob/main/Movie%20Recommendation%20System.ipynb">Notebook</a>
 
